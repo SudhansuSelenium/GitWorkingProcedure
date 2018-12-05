@@ -24,11 +24,18 @@ GIT CLONE from Remote-->Local
 
 Git Commands:
 git init: to create git reopsitory in the local machine folder
+
 git clone: to clone remote git repository to local machine folder
+
 git add -all: add the changes of project to staging area
+
 git commit -m "<message>": add changes to the local machine repository
+  
 git push <git repository url in git hub page>: pushes the changes from local machine to the git repository
+  
 git pull: pulls the changes from git repository to working directory
+
 git status: lists all the files that have to be committed
+
 git branch: list the branch name
   
