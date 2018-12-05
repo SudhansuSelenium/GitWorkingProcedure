@@ -32,10 +32,10 @@ to clone remote git repository to local machine folder
 # git add -all: 
 add the changes of project to staging area
 
-# git commit -m "<message>": 
+# git commit -m "message": 
 add changes to the local machine repository
   
-# git push <git repository url in git hub page>: 
+# git push git repository url in git hub page: 
 pushes the changes from local machine to the git repository
   
 # git pull: 
