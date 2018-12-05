@@ -1,5 +1,6 @@
 # GitWorkingProcedure
 This is to show to create Repository and clone from Local to Remote and vice versa
+
 GIT from local-->Remote
 1. Create repository in github page
 2. Create folder i.e gitRepo in local machine
