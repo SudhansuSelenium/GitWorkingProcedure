@@ -31,3 +31,4 @@ git push <git repository url in git hub page>: pushes the changes from local mac
 git pull: pulls the changes from git repository to working directory
 git status: lists all the files that have to be committed
 git branch: list the branch name
+  
